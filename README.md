@@ -2,7 +2,7 @@
 - 👀 I’m interested in playing video games and mechanical keyboards.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on beginner projects to help expand my virtual portfolio
-- 📫 Message me!
+- 📫 You can contact me through email!
 
 <!---
 alexander-tu/alexander-tu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
